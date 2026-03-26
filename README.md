@@ -28,7 +28,7 @@ Feel free to `ping` me about:
 ---
 
 ## 💅 Designs & Contributions  
-- Designed: [@mrlexcoder](https://techdulx.com), [TechDulx](https://techdulx-main.vercel.app/), [Himachal Govt](https://www.himachalgovt.com)  
+- Designed: [@mrlexcoder](https://tekkivo.com), [TechDulx](https://techdulx-main.vercel.app/), [Himachal Govt](https://www.himachalgovt.com)  
 - Always experimenting with UI/UX and clean code practices.  
 
 ---
