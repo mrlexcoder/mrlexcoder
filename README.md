@@ -1,6 +1,6 @@
 ### Full-Stack Developer by Day ☼ | @A Community Contributor by Night ☾  
 
-Hey there! 👋 I’m a passionate Full-Stack Developer at *OwnInfoTech* and an active member of the ** @A Community**. I love crafting web and mobile solutions using the latest technologies, and I’m always excited to help others with their coding challenges or innovative ideas.  
+Hey there! 👋 I’m a passionate Full-Stack Developer at *Own* and an active member of the ** @A Community**. I love crafting web and mobile solutions using the latest technologies, and I’m always excited to help others with their coding challenges or innovative ideas.  
 
 ---
 
